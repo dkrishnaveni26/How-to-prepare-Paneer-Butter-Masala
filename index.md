@@ -14,12 +14,12 @@ title: How to prepare Paneer Butter Masala?
 ## About the recipe:
 Paneer Butter Masala is one of the most popular Indian curry made of Paneer (cottage cheese) or tofu which has a slight tinge of sweetness along with its creamy texture.
 **Cooking Time: 35 Minutes** | **Servings: 3 numbers** 
-| --- | --- |
+ --- | --- 
 
 ## Ingredients required for preparation:
 | Itams | Quantity |
-| --- | --- |
-| Paneer | 250 grams |
+ --- | --- 
+ Paneer | 250 grams 
 | Tomato | 5 (medium sized) |
 | Onion | 2 (medium sized) |
 | Garlic cloves | 8 - 10 number |
