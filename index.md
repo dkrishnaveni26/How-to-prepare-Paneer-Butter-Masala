@@ -17,19 +17,19 @@ Paneer Butter Masala is one of the most popular Indian curry made of Paneer (cot
  --- | --- 
 
 ## Ingredients required for preparation:
-| Itams | Quantity |
+ **Itams** | **Quantity**
  --- | --- 
  Paneer | 250 grams 
-| Tomato | 5 (medium sized) |
-| Onion | 2 (medium sized) |
-| Garlic cloves | 8 - 10 number |
-| Ginger | 1 inch size |
-| Cashews | 15 - 20 number |
-| Butter | 3 tablespoon |
-| Cooking oil | 1 tablespoon |
-| Chilli Powder | 1 tablespoon |
-| Salt | as per taste |
-| Corriander |  garnish |
+ Tomato | 5 (medium sized) 
+ Onion | 2 (medium sized) 
+ Garlic cloves | 8 - 10 number 
+ Ginger | 1 inch size 
+ Cashews | 15 - 20 number 
+ Butter | 3 tablespoon 
+ Cooking oil | 1 tablespoon 
+ Chilli Powder | 1 tablespoon 
+ Salt | as per taste 
+ Corriander |  garnish 
 
 **Consideration** | **Details**
 --- | ---
