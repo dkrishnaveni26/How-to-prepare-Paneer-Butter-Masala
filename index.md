@@ -4,24 +4,27 @@ title: How to prepare Paneer Butter Masala?
 # How to prepare Paneer Butter Masala?
 ![image](./images/Paneer-Butter-Masala.jpg)
 
-##Table of Content
-| --- |
+### Table of Content
+ --- 
  [About the recipe](https://github.com/dkrishnaveni26/Recipe/edit/main/README.md#about-the-recipe)
  [Ingredients required for preparation](https://github.com/dkrishnaveni26/Recipe/edit/main/README.md#ingredients-required-for-preparation)
  [Pre-requisites for preparing Paneer Butter Masala](https://github.com/dkrishnaveni26/Recipe/edit/main/README.md#pre-requisites-for-preparing-paneer-butter-masala)
  [Step by Step instructions on preparation of Paneer Butter Masala](https://github.com/dkrishnaveni26/Recipe/edit/main/README.md#step-by-step-instructions-on-preparation-of-paneer-butter-masala)
 
-## About the recipe:
+### About the recipe:
 Paneer Butter Masala is one of the most popular Indian curry made of Paneer (cottage cheese) or tofu which has a slight tinge of sweetness along with its creamy texture.
-**Cooking Time: 35 Minutes** | **Servings: 3 numbers** 
- --- | --- 
+<br>
 
-## Ingredients required for preparation:
+===Cooking Time: 35 Minutes===
+===Servings: 3 numbers===
+ ---
+
+### Ingredients required for preparation:
 
  **Items** | **Quantity**
  --- | --- 
- **Paneer** | 250 grams 
- **Tomato** | 5 (medium sized) 
+ Paneer | 250 grams 
+ Tomato | 5 (medium sized) 
  Onion | 2 (medium sized) 
  Garlic cloves | 8 - 10 number 
  Ginger | 1 inch size 
@@ -30,27 +33,29 @@ Paneer Butter Masala is one of the most popular Indian curry made of Paneer (cot
  Cooking oil | 1 tablespoon 
  Chilli Powder | 1 tablespoon 
  Salt | as per taste 
- Corriander |  garnish 
+ Corriander | finely chopped to garnish 
  
 
-## Pre-requisites for preparing Paneer Butter Masala:
-- Soak cashews in Lukewarm water for an hour before starting the recipe
--	Chop 250 grams paneer into bite size cubes
--	Peel ginger skin and finely chop ginger and garlic
--	Coarsely slice Onion and chop Tomatoes
+### Pre-requisites for preparing Paneer Butter Masala:
+- 	Soak cashews in lukewarm water for 20 minutes before starting the recipe.
+-	Chop 250 grams paneer into bite size cubes.
+-	Peel ginger skin and finely chop it along with garlic cloves and.
+-	Coarsely slice Onion and coarsely chop tomato to cook and blend.
 
-## Step by Step instructions on preparation of Paneer Butter Masala:
+### Step by Step instructions to prepare Paneer Butter Masala:
 1.	Heat 2 tablespoon Oil in a pan over medium flame and add finely chopped Garlic and Ginger. Sauté for a minute until the raw flavour disappears.
-2.	Add coarsely sliced Onion, chopped Tomatoes, soaked cashews to the same pan and stir occasionally until Tomatoes softens and cover the pan for about 4 – 5 minutes. 
-3.	Remove the pan out of heat to let it cool down to roam temperature and blend the mixture into a smooth paste.
-4.	Melt 3 tablespoon Butter in the same pan and add 1 tablespoon chilli powder. 
-5.	Add the smooth paste, salt to taste and cover the pan with a lid for 10 minutes.
-6.	After 10 minutes remove the lid, add chopped fresh paneer and cook for a minute. 
-7.	Remove the curry from heat and garnish with freshly chopped corriander. Delicious Paneer Butter Masala is ready to serve
+2.	Add coarsely sliced Onion, chopped Tomatoes, soaked cashews to the same pan and stir occasionally until Tomatoes softens and cover the pan for about *5 minutes*. 
+3.	Remove the pan out of heat and let it cool down to roam temperature.
+4.	 blend the mixture into a smooth paste.
+5.	Melt 3 tablespoon Butter in the same pan and add 1 tablespoon chilli powder. 
+6.	Add the smooth paste, salt to taste and cover the pan with a lid for *10 minutes*.
+7.	After 10 minutes remove the lid, add chopped fresh paneer and cook for a minute. 
+8.	Remove the curry from heat and garnish with freshly chopped corriander. 
+9.	Delicious Paneer Butter Masala is ready to be served.
 
-	> [!Tip:]
-	> You can replace paneer with variety of vegetables to try out different varients of curry.
+	> Tip:
+	> You can replace paneer with a ===variety of vegetables=== to try out different varients of curry.
 
-## Benefits
+### Benefits
 
 	
