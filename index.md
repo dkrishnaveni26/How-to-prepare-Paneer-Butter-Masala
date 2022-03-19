@@ -17,6 +17,7 @@ Paneer Butter Masala is one of the most popular Indian curry made of Paneer (cot
  --- | --- 
 
 ## Ingredients required for preparation:
+
  **Itams** | **Quantity**
  --- | --- 
  Paneer | 250 grams 
