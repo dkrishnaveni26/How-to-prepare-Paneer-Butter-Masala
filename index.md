@@ -1,7 +1,7 @@
 ---
 title: How to prepare Paneer Butter Masala?
 ---
-![image](./images/Paneer-Butter-Masala.jpg)
+![image](./images/Paneer-Butter-Masala.jpg)[^1]
 
 ### Table of Content
 
