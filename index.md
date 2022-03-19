@@ -71,7 +71,7 @@ Below are the prelimenary steps to be taken before starting the preparation:
 
 ### Nutritian Value:
 
-Below is an approximate estimate of the nutritional value. This dish contains a total of ==465kcal== for 1 serving.
+Below is an approximate estimate of the nutritional value. This dish contains a total of ***465kcal*** for 1 serving.
 
 --- | ---
 Carbohydrates | *12g*
