@@ -63,12 +63,14 @@ Below are the prelimenary steps to be taken before starting the preparation:
 ### Tips for best results:
 
 * Tomato is one of the key ingredient of the dish, so ensure to use red, ripe and firm tomatoes.
+* We can always use fresh store-bought paneer, but, for best flavour and taste it is recommended to use homemade paneer. You can refer [this](https://www.youtube.com/watch?v=A9bwHBikW8o)[^2] as reference.
 * Paneer cubes can be fried and added to thr gravy for extra crispness. 
 * It is recommended to use kashmiri chilli powder or bright orangish-red colour, apart from this ripe red tomatoes also contribute towards lovely orangish-red coloured gravy.
-* Due to shortage of time if Cashews cannot be pre-soaked for 30 minutes, we can 
+* Due to shortage of time if Cashews cannot be pre-soaked for 30 minutes, we can replace it with finely grind Cashews in powdered consistency.
 
 ### Nutritian Value:
 
 [^1]: Image source - Google.
+[^2]: Homamade paneer preparation video courtesy - Hebbars Kitchen
 
 	
