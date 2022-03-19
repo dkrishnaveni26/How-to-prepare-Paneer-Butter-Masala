@@ -17,7 +17,7 @@ title: How to prepare Paneer Butter Masala?
  
 ---
 ### About the recipe:
-Paneer Butter Masala is one of the most popular Indian curry made of Paneer (cottage cheese) or tofu which has a slight tinge of sweetness along with its creamy texture.
+Paneer Butter Masala is one of the most popular Indian curry made of Paneer (cottage cheese) or tofu. This dish has a slight tinge of sweetness along with its creamy texture.
 <br>
 
 > **Note:** This recipe takes about *35 minutes* for preparation and below mentioned quantity is enough for 3 servings.
@@ -38,7 +38,7 @@ Paneer Butter Masala is one of the most popular Indian curry made of Paneer (cot
  Cooking oil | 2 tablespoon 
  Chilli Powder | 1 tablespoon 
  Salt | as per taste 
- Corriander | finely chopped to garnish 
+ Coriander | finely chopped to garnish 
  
 ### Preparation of Paneer Butter Masala:
 
