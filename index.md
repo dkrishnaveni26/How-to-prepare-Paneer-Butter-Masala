@@ -71,6 +71,22 @@ Below are the prelimenary steps to be taken before starting the preparation:
 
 ### Nutritian Value:
 
+Below is an approximate estimate of the nutritional value. It contains a total of 465kcal for 1 serving.
+
+| --- |  
+**Calories**: ***465kcal***
+Carbohydrates: 12g
+Protein: 14.6g
+Fat: 40.3g
+Saturated Fat: 11g
+Cholesterol: 48mg
+Sodium: 859mg
+Potassium: 296mg
+Fiber: 2.3g
+Sugar: 3.7g
+Calcium: 30mg
+Iron: 1.1mg
+
 [^1]: Image source - Google.
 [^2]: Homamade paneer preparation video courtesy - Hebbars Kitchen
 
