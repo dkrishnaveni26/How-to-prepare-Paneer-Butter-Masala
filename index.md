@@ -10,11 +10,10 @@ title: How to prepare Paneer Butter Masala?
 - [About the recipe](#about-the-recipe)
 - [Ingredients required for preparation](#ingredients-required-for-preparation)
 - [Preparation of Paneer Butter Masala](#preparation-of-paneer-butter-masala)
- 	
-	- [Pre-requisites](#pre-requisites)
+ 	- [Pre-requisites](#pre-requisites)
 	- [Step by Step instructions](#step-by-step-instructions)
-	
-- [Benefits](#benefits) 
+- [Tips for best results](#tips-for-best-results) 
+- [Nutritian Value](#nutririan-value)
 
 ### About the recipe:
 Paneer Butter Masala is one of the most popular Indian curry made of Paneer (cottage cheese) or tofu which has a slight tinge of sweetness along with its creamy texture.
@@ -48,11 +47,11 @@ Below are the prelimenary steps to be taken before starting the preparation:
 - 	Soak cashews in lukewarm water for *20 minutes* before starting the recipe.
 -	Chop 250 grams paneer into bite size cubes.
 -	Peel ginger skin and finely chop it along with garlic cloves.
--	Coarsely slice Onion and coarsely chop tomato to cook and blend.
+-	Coarsely slice Onion and coarsely chop Tomato to cook and blend.
 
 #### Step by Step instructions:
 1.	Heat 2 tablespoon Oil in a pan over medium flame and add finely chopped Garlic and Ginger. Sauté for a minute until the raw flavour disappears.
-2.	Add coarsely sliced Onion, chopped Tomatoes, soaked cashews to the same pan and sauté occasionally until Tomatoes softens and cover the pan for about *5 minutes*. 
+2.	Add coarsely sliced Onion, chopped Tomatoes, soaked Cashews to the same pan and sauté occasionally until Tomatoes softens and cover the pan for about *5 minutes*. 
 3.	After 5 minutes, remove the pan out of heat and let it cool down to room temperature followed by blending the mixture into a smooth paste.
 4.	Melt 3 tablespoon Butter in the same pan and add 1 tablespoon chilli powder. 
 5.	Add the smooth paste to the pan, add salt to taste and stir the gravy for a minute.
@@ -61,8 +60,15 @@ Below are the prelimenary steps to be taken before starting the preparation:
 8.	Remove the curry from heat and garnish with freshly chopped corriander. 
 9.	Delicious Paneer Butter Masala is ready to be served.
 
-### Benefits
+### Tips for best results:
 
-[^1]: My reference.
+* Tomato is one of the key ingredient of the dish, so ensure to use red, ripe and firm tomatoes.
+* Paneer cubes can be fried and added to thr gravy for extra crispness. 
+* It is recommended to use kashmiri chilli powder or bright orangish-red colour, apart from this ripe red tomatoes also contribute towards lovely orangish-red coloured gravy.
+* Due to shortage of time if Cashews cannot be pre-soaked for 30 minutes, we can 
+
+### Nutritian Value:
+
+[^1]: Image source - Google.
 
 	
