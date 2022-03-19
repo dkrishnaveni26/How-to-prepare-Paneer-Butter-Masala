@@ -10,10 +10,8 @@ title: How to prepare Paneer Butter Masala?
 - [About the recipe](#about-the-recipe)
 - [Ingredients required for preparation](#ingredients-required-for-preparation)
 - [Preparation of Paneer Butter Masala](#preparation-of-paneer-butter-masala)
-
- 	- [Pre-requisites](#pre-requisites)
+	- [Pre-requisites](#pre-requisites)
 	- [Step by Step instructions](#step-by-step-instructions)
-	
 - [Tips for best results](#tips-for-best-results) 
 - [Nutritian Value](#nutririan-value)
  
