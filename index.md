@@ -19,7 +19,7 @@ title: How to prepare Paneer Butter Masala?
 Paneer Butter Masala is one of the most popular Indian curry made of Paneer (cottage cheese) or tofu which has a slight tinge of sweetness along with its creamy texture.
 <br>
 
-> **Note:** This recipe takes about *35 minutes* for preparation and serves 3 
+> **Note:** This recipe takes about *35 minutes* for preparation and below mentioned quantity is enough for 3 servings.
 
 ---
 
@@ -62,11 +62,11 @@ Below are the prelimenary steps to be taken before starting the preparation:
 
 ### Tips for best results:
 
-* Tomato is one of the key ingredient of the dish, so ensure to use red, ripe and firm tomatoes.
-* We can always use fresh store-bought paneer, but, for best flavour and taste it is recommended to use homemade paneer. You can refer [this](https://www.youtube.com/watch?v=A9bwHBikW8o)[^2] as reference.
-* Paneer cubes can be fried and added to thr gravy for extra crispness. 
-* It is recommended to use kashmiri chilli powder or bright orangish-red colour, apart from this ripe red tomatoes also contribute towards lovely orangish-red coloured gravy.
-* Due to shortage of time if Cashews cannot be pre-soaked for 30 minutes, we can replace it with finely grind Cashews in powdered consistency.
+- Tomato is one of the key ingredient of the dish, so ensure to use red, ripe and firm tomatoes.
+- We can always use fresh store-bought paneer, but, for best flavour and taste it is recommended to use homemade paneer. You can refer [this](https://www.youtube.com/watch?v=A9bwHBikW8o) as reference[^2].
+- Paneer cubes can be fried and added to thr gravy for extra crispness. 
+- It is recommended to use kashmiri chilli powder or bright orangish-red colour, apart from this ripe red tomatoes also contribute towards lovely orangish-red coloured gravy.
+- Due to shortage of time if Cashews cannot be pre-soaked for 30 minutes, we can replace it with finely grind Cashews in powdered consistency.
 
 ### Nutritian Value:
 
