@@ -48,18 +48,18 @@ Below are the prelimenary steps to be taken before starting the preparation:
 
 #### Pre-requisites:
 - 	Soak cashews in lukewarm water for *20 minutes* before starting the recipe.
--	Chop 250 grams paneer into bite size cubes.
--	Peel ginger skin and finely chop it along with garlic cloves.
--	Coarsely slice Onion and coarsely chop Tomato to cook and blend.
+-	Chop *250 grams* paneer into bite size cubes.
+-	Peel ginger skin and finely chop the peeled ginger and garlic cloves.
+-	Coarsely slice Onion and roughly chop Tomato.
 
 #### Step by Step instructions:
 1.	Heat 2 tablespoon Oil in a pan over medium flame and add finely chopped Garlic and Ginger. Sauté for a minute until the raw flavour disappears.
-2.	Add coarsely sliced Onion, chopped Tomatoes, soaked Cashews to the same pan and sauté occasionally until Tomatoes softens and cover the pan for about *5 minutes*. 
+2.	Add sliced Onion, chopped Tomatoes, soaked Cashews to the same pan and sauté occasionally until Tomato softens and cover the pan for about *7 minutes*. 
 3.	After 5 minutes, remove the pan out of heat and let it cool down to room temperature followed by blending the mixture into a smooth paste.
 4.	Melt 3 tablespoon Butter in the same pan and add 1 tablespoon chilli powder. 
 5.	Add the smooth paste to the pan, add salt to taste and stir the gravy for a minute.
 6.	Cover the pan with a lid for about *10 minutes*.
-7.	After 10 minutes remove the lid, add chopped  paneer and cook for about a minute. 
+7.	After 10 minutes remove the lid, add chopped paneer and cook for about 3-5 minute. 
 8.	Remove the curry from heat and garnish with freshly chopped corriander. 
 9.	Delicious Paneer Butter Masala is ready to be served.
 
