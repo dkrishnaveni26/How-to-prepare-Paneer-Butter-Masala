@@ -1,7 +1,8 @@
 ---
 title: How to prepare Paneer Butter Masala?
 ---
-![image](./images/Paneer-Butter-Masala.jpg)[^1]
+![image](./images/Paneer-Butter-Masala.jpg)
+[^1]
 
 ### Table of Content
 
@@ -9,8 +10,10 @@ title: How to prepare Paneer Butter Masala?
 - [About the recipe](#about-the-recipe)
 - [Ingredients required for preparation](#ingredients-required-for-preparation)
 - [Preparation of Paneer Butter Masala](#preparation-of-paneer-butter-masala)
- 	- [Pre-requisites](#pre-requisites)
+ 	
+	- [Pre-requisites](#pre-requisites)
 	- [Step by Step instructions](#step-by-step-instructions)
+	
 - [Benefits](#benefits) 
 
 ### About the recipe:
@@ -59,5 +62,7 @@ Below are the prelimenary steps to be taken before starting the preparation:
 9.	Delicious Paneer Butter Masala is ready to be served.
 
 ### Benefits
+
+[^1]: My reference.
 
 	
