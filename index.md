@@ -7,7 +7,7 @@ title: How to prepare Paneer Butter Masala?
 ### Table of Content
 
  --- 
-- [About the recipe](https://github.com/dkrishnaveni26/How-to-prepare-Paneer-Butter-Masala/edit/gh-pages/index.md#about-the-recipe)
+- [About the recipe](#about-the-recipe)
 - [Ingredients required for preparation](https://github.com/dkrishnaveni26/How-to-prepare-Paneer-Butter-Masala/edit/gh-pages/index.md#ingredients-required-for-preparation)
 - [Preparation of  Paneer Butter Masala]()
  	- [Pre-requisites for preparing Paneer Butter Masala]()
