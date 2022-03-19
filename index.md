@@ -86,6 +86,9 @@ Sugar | *3.7g*
 Calcium | *30mg*
 Iron | *1.1mg*
 
+---
+#### Footnote:
+
 [^1]: Image source - Google.
 [^2]: Homamade paneer preparation video courtesy - Hebbars Kitchen
 
