@@ -7,10 +7,12 @@ title: How to prepare Paneer Butter Masala?
 ### Table of Content
 
  --- 
- [About the recipe](https://github.com/dkrishnaveni26/Recipe/edit/main/README.md#about-the-recipe)
- [Ingredients required for preparation](https://github.com/dkrishnaveni26/Recipe/edit/main/README.md#ingredients-required-for-preparation)
- [Pre-requisites for preparing Paneer Butter Masala](https://github.com/dkrishnaveni26/Recipe/edit/main/README.md#pre-requisites-for-preparing-paneer-butter-masala)
- [Step by Step instructions on preparation of Paneer Butter Masala](https://github.com/dkrishnaveni26/Recipe/edit/main/README.md#step-by-step-instructions-on-preparation-of-paneer-butter-masala)
+- [About the recipe](https://github.com/dkrishnaveni26/How-to-prepare-Paneer-Butter-Masala/edit/gh-pages/index.md#about-the-recipe)
+- [Ingredients required for preparation](https://github.com/dkrishnaveni26/How-to-prepare-Paneer-Butter-Masala/edit/gh-pages/index.md#ingredients-required-for-preparation)
+- [Preparation of  Paneer Butter Masala]
+ 	- [Pre-requisites for preparing Paneer Butter Masala]()
+	- [Step by Step instructions]()
+- [Benefits]() 
 
 ### About the recipe:
 Paneer Butter Masala is one of the most popular Indian curry made of Paneer (cottage cheese) or tofu which has a slight tinge of sweetness along with its creamy texture.
@@ -37,14 +39,15 @@ Paneer Butter Masala is one of the most popular Indian curry made of Paneer (cot
  Salt | as per taste 
  Corriander | finely chopped to garnish 
  
+### Preparation of Paneer Butter Masala:
 
-### Pre-requisites for preparing Paneer Butter Masala:
+#### Pre-requisites for preparing Paneer Butter Masala:
 - 	Soak cashews in lukewarm water for 20 minutes before starting the recipe.
 -	Chop 250 grams paneer into bite size cubes.
 -	Peel ginger skin and finely chop it along with garlic cloves and.
 -	Coarsely slice Onion and coarsely chop tomato to cook and blend.
 
-### Step by Step instructions to prepare Paneer Butter Masala:
+#### Step by Step instructions to prepare Paneer Butter Masala:
 1.	Heat 2 tablespoon Oil in a pan over medium flame and add finely chopped Garlic and Ginger. Sauté for a minute until the raw flavour disappears.
 2.	Add coarsely sliced Onion, chopped Tomatoes, soaked cashews to the same pan and stir occasionally until Tomatoes softens and cover the pan for about *5 minutes*. 
 3.	Remove the pan out of heat and let it cool down to roam temperature.
