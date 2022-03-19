@@ -31,6 +31,8 @@ Paneer Butter Masala is one of the most popular Indian curry made of Paneer (cot
  Chilli Powder | 1 tablespoon 
  Salt | as per taste 
  Corriander |  garnish 
+ 
+ 
 
 **Consideration** | **Details**
 --- | ---
