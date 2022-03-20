@@ -13,7 +13,7 @@ title: How to prepare Paneer Butter Masala?
 	- [Pre-requisites](#pre-requisites)
 	- [Step by Step instructions](#step-by-step-instructions)
 - [Tips for best results](#tips-for-best-results) 
-- [Nutritian Value](#nutririan-value)
+- [Nutrition Value](#nutrition-value)
  
 ---
 ### About the recipe:
@@ -69,7 +69,7 @@ Below are the prelimenary steps to be taken before starting the preparation:
 - It is recommended to use kashmiri chilli powder or bright orangish-red colour, apart from this ripe red tomatoes also contribute towards lovely orangish-red coloured gravy.
 - Due to shortage of time if Cashews cannot be pre-soaked for 30 minutes, we can replace it with finely powdered Cashews and add it when blending Tomatoes and Onions.
 
-### Nutritian Value:
+### Nutrition Value:
 
 Below is an approximate estimate of the nutritional value. This dish contains a total of ***465kcal*** *for 1 serving.*
 
