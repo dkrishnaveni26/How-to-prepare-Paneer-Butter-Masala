@@ -57,7 +57,7 @@ Below are the prelimenary steps to be taken before starting the preparation:
 4.	Melt 3 tablespoon Butter in the same pan and add 1 tablespoon chilli powder. 
 5.	Add the smooth paste to the pan, add salt to taste and stir the gravy for a minute.
 6.	Cover the pan with a lid for about *10 minutes*.
-7.	After 10 minutes remove the lid, add chopped paneer and cook for about 3-5 minute. 
+7.	After 10 minutes open the lid, add chopped paneer and cook for about 3-5 minute. 
 8.	Remove the curry from heat and garnish with freshly chopped corriander. 
 9.	Delicious Paneer Butter Masala is ready to be served.
 
