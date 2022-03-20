@@ -42,20 +42,20 @@ Paneer Butter Masala is one of the most popular Indian curries made of Paneer (c
  
 ### Preparation of Paneer Butter Masala:
 
-Below are the preliminary steps to be taken before starting the preparation:
+Below are the preliminary steps to be taken before starting the recipe:
 
 #### Pre-requisites:
-- 	Soak cashews in lukewarm water for *20 minutes* before starting the recipe.
+- 	Soak cashews in lukewarm water for *20 minutes*.
 -	Chop *250 grams* paneer into bite size cubes.
 -	Peel ginger skin and finely chop the peeled ginger and garlic cloves.
 -	Coarsely slice Onion and roughly chop Tomato.
 
 #### Step by Step instructions:
 1.	Heat 2 tablespoon Oil in a pan over medium flame and add finely chopped Garlic and Ginger. Sauté for a minute until the raw flavour disappears.
-2.	Add sliced Onion, chopped Tomatoes, soaked Cashews to the same pan and sauté occasionally until Tomato softens and cover the pan for about *5 - 7 minutes*. 
+2.	Add sliced Onion, chopped Tomato, soaked Cashews to the same pan and sauté occasionally until Tomato softens and cover the pan for about *5 - 7 minutes*. 
 3.	After 5 - 7 minutes, remove the pan out of heat and let it cool down to room temperature followed by blending the mixture into a smooth paste.
 4.	Melt 3 tablespoon Butter in the same pan and add 1 tablespoon chilli powder. 
-5.	Add the smooth paste to the pan, add salt to taste and stir the gravy for a minute.
+5.	Add the smooth paste to the pan, add salt to taste and stir the curry for a minute.
 6.	Cover the pan with a lid for about *10 minutes*.
 7.	After 10 minutes open the lid, add chopped paneer, and cook for about 3-5 minute. 
 8.	Remove the curry from heat and garnish with freshly chopped coriander. 
@@ -63,15 +63,15 @@ Below are the preliminary steps to be taken before starting the preparation:
 
 ### Tips for best results:
 
-- Tomato is one of the key ingredients of the dish, so ensure to use red, ripe, and firm tomatoes.
-- We can always use fresh store-bought paneer, but, for best flavour and taste it is recommended to use homemade paneer. You can use [this](https://www.youtube.com/watch?v=A9bwHBikW8o) as reference[^2].
-- Paneer cubes can be fried and added to the gravy for extra crispness. 
-- It is recommended to use Kashmiri chilli powder or bright orangish-red colour, apart from this ripe red tomatoes also contribute towards lovely orangish-red coloured gravy.
-- Due to shortage of time if Cashews cannot be pre-soaked for 30 minutes, we can replace it with finely powdered Cashews and add it when blending Tomatoes and Onions.
+- Tomato is one of the key ingredients, so ensure to use red, ripe, and firm tomatoes.
+- We can always use fresh store-bought paneer, but, for best flavour and taste it is recommended to use homemade paneer. You can use [this](https://www.youtube.com/watch?v=A9bwHBikW8o) as reference[^2] for preparing homemade paneer.
+- Paneer cubes can be fried and added to the curry for extra crispness. 
+- It is recommended to use Kashmiri chilli powder for bright orangish-red colour, apart from this ripe red tomatoes also contribute towards lovely orangish-red colour.
+- Due to shortage of time if Cashews cannot be pre-soaked in water, we can replace it with finely powdered Cashews and add it when blending Tomato and Onion.
 
 ### Nutrition Value:
 
-Below is an approximate estimate of the nutritional value. This dish contains a total of ***465kcal*** *for 1 serving.*
+Below is an approximate estimation of the nutritional value of the recipe. This dish contains a total of ***465kcal*** *for 1 serving.*
 
 --- | ---
 Carbohydrates | *12g*
