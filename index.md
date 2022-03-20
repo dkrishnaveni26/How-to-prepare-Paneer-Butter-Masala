@@ -52,8 +52,8 @@ Below are the prelimenary steps to be taken before starting the preparation:
 
 #### Step by Step instructions:
 1.	Heat 2 tablespoon Oil in a pan over medium flame and add finely chopped Garlic and Ginger. Sauté for a minute until the raw flavour disappears.
-2.	Add sliced Onion, chopped Tomatoes, soaked Cashews to the same pan and sauté occasionally until Tomato softens and cover the pan for about *7 minutes*. 
-3.	After 5 minutes, remove the pan out of heat and let it cool down to room temperature followed by blending the mixture into a smooth paste.
+2.	Add sliced Onion, chopped Tomatoes, soaked Cashews to the same pan and sauté occasionally until Tomato softens and cover the pan for about *5 - 7 minutes*. 
+3.	After 5 - 7 minutes, remove the pan out of heat and let it cool down to room temperature followed by blending the mixture into a smooth paste.
 4.	Melt 3 tablespoon Butter in the same pan and add 1 tablespoon chilli powder. 
 5.	Add the smooth paste to the pan, add salt to taste and stir the gravy for a minute.
 6.	Cover the pan with a lid for about *10 minutes*.
@@ -67,7 +67,7 @@ Below are the prelimenary steps to be taken before starting the preparation:
 - We can always use fresh store-bought paneer, but, for best flavour and taste it is recommended to use homemade paneer. You can use [this](https://www.youtube.com/watch?v=A9bwHBikW8o) as reference[^2].
 - Paneer cubes can be fried and added to thr gravy for extra crispness. 
 - It is recommended to use kashmiri chilli powder or bright orangish-red colour, apart from this ripe red tomatoes also contribute towards lovely orangish-red coloured gravy.
-- Due to shortage of time if Cashews cannot be pre-soaked for 30 minutes, we can replace it with finely grind Cashews in powdered consistency.
+- Due to shortage of time if Cashews cannot be pre-soaked for 30 minutes, we can replace it with finely powdered Cashews and add it when blending Tomatoes and Onions.
 
 ### Nutritian Value:
 
